@@ -44,10 +44,10 @@ SQL is a query language that was designed to manage data stored in relational da
 git clone https://github.com/Mercurycode2002/SQLi-Detector.git
 
 # Change Directory
-cd sqli-detector-in-python
+cd SQLi-Detector
 
 # Execute
-python sqli-detector-in-python.py
+python sqli_detector.py
 ```
 
 #
