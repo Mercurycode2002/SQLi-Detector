@@ -15,8 +15,6 @@
     Examining the database, where you can extract information about the version and structure of the database.
     💀 Blind SQL injection, where the results of a query you control are not returned in the application's responses.
 </h2>
-<h5><a href="https://portswigger.net/web-security/sql-injection">sources</a></h5>
-
 #
 <h1><b>How and Why Is an SQL Injection Attack Performed?</b></h1>
 <h2>To make an SQL Injection attack, an attacker must first find vulnerable user inputs within the web page or web application. A web page or web application that has an SQL Injection vulnerability uses such user input directly in an SQL query. The attacker can create input content. Such content is often called a malicious payload and is the key part of the attack. After the attacker sends this content, malicious SQL commands are executed in the database.
@@ -43,7 +41,7 @@ SQL is a query language that was designed to manage data stored in relational da
 
 ```
 # Clone My Repository
-git clone 
+git clone https://github.com/Mercurycode2002/SQLi-Detector.git
 
 # Change Directory
 cd sqli-detector-in-python
