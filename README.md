@@ -1,5 +1,5 @@
 <h1><b>SQL Injection Detector In Python</b></h1>
-<img src="https://img.shields.io/badge/Python-3.10-blue"> <img src="https://img.shields.io/badge/Status-Beta-orange"> <img src="https://img.shields.io/badge/Licence-MIT-yellowgreen"> <a href="https://taguar258.github.io/Raven-Storm/INSTALLATION"><img src="https://img.shields.io/badge/Download-Now-green"></a>
+<img src="https://img.shields.io/badge/Python-3.10-blue"> <img src="https://img.shields.io/badge/Status-Beta-orange"><a href="https://taguar258.github.io/Raven-Storm/INSTALLATION"><img src="https://img.shields.io/badge/Download-Now-green"></a>
 
 #
 <h1><b>What Is SQL Injection? </b></h1>
